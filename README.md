@@ -1,4 +1,4 @@
-# educational_math_game
+# Educational math game
 The math game is a relatively easy game in which you should put rectangles with given colours and numbers into groups with a given sum.
 The game is written in Java and utilizes graphical libraries.
 
